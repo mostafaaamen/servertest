@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8673f98.css",
+    "main.js": "/static/js/main.43c1a7aa.js",
+    "static/media/jentleman.jpg": "/static/media/jentleman.99e507521001c4b69dde.jpg",
+    "static/media/service-1.png": "/static/media/service-1.be170f75870c23c8c471.png",
+    "static/media/service-3.png": "/static/media/service-3.784a57b940c87f5ff067.png",
+    "static/media/home2-img.png": "/static/media/home2-img.55c615e43a5d918c8f13.png",
+    "static/media/home3-img.png": "/static/media/home3-img.458a3b2324fb608058ff.png",
+    "static/media/home1-img.png": "/static/media/home1-img.94a24b3d6394ec764a2a.png",
+    "static/media/service-2.png": "/static/media/service-2.7a3716ea484c4d0d86e8.png",
+    "static/media/logo.png": "/static/media/logo.cf894e7123d747296a41.png",
+    "static/media/pattern-AZMOS.patt": "/static/media/pattern-AZMOS.0f20e900b28089625875.patt",
+    "index.html": "/index.html",
+    "main.a8673f98.css.map": "/static/css/main.a8673f98.css.map",
+    "main.43c1a7aa.js.map": "/static/js/main.43c1a7aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8673f98.css",
+    "static/js/main.43c1a7aa.js"
+  ]
+}
